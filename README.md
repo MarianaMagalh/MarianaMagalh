@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/9c/59/c2/9c59c25abfdd3b930c2f514c02bfef72.gif" alt="placeholder" width="200%" height="100%">
+<img src="https://i.pinimg.com/originals/9c/59/c2/9c59c25abfdd3b930c2f514c02bfef72.gif" alt="placeholder" width="100%" height="200%">
 
 # Olá eu sou a Mariana Macena! 
 ### Um pouco sobre mim...
@@ -22,7 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="placeholder" width="10%" height="10%"> <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" alt="placeholder" width="10%" height="10%">
 
 ---
-<img src="https://i.pinimg.com/originals/d1/90/f3/d190f312820a2361516ac7c9a3948b09.gif" alt="placeholder" width="200%" height="100%">
+<img src="https://i.pinimg.com/originals/d1/90/f3/d190f312820a2361516ac7c9a3948b09.gif" alt="placeholder" width="100%" height="200%">
 
 
 
