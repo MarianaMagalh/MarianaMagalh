@@ -1,4 +1,4 @@
-<img src="[https://i.pinimg.com/originals/9c/59/c2/9c59c25abfdd3b930c2f514c02bfef72.gif](https://i.pinimg.com/736x/3e/09/08/3e09082dcdd0b34370b13e5f4149b688.jpg](https://i.pinimg.com/736x/3e/09/08/3e09082dcdd0b34370b13e5f4149b688.jpg)" alt="placeholder" width="auto" height="auto">
+<img src="https://i.pinimg.com/originals/9c/59/c2/9c59c25abfdd3b930c2f514c02bfef72.gif" alt="placeholder" width="auto" height="auto">
 
 # Olá eu sou a Mariana Macena! 
 ### Um pouco sobre mim...
