@@ -12,7 +12,7 @@
 ---
 ### Habilidades 
 #### Linguagens de programação
-<img src="https://img.icons8.com/color/512/python.png" alt="placeholder" width="10%" height="10%">   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="placeholder" width="10%" height="10%">  <img src="https://prosimples.com/wp-content/uploads/2024/01/html.png" alt="placeholder" width="10%" height="10%"> <img src="https://img.icons8.com/fluent/200/css3.png" alt="placeholder" width="10%" height="10%"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="placeholder" width="10%" height="10%">
+<img src="https://img.icons8.com/color/512/python.png" alt="placeholder" width="10%" height="10%">   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="placeholder" width="10%" height="10%">  <img src="https://prosimples.com/wp-content/uploads/2024/01/html.png" alt="placeholder" width="7%" height="8%"> <img src="https://img.icons8.com/fluent/200/css3.png" alt="placeholder" width="10%" height="10%"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="placeholder" width="10%" height="10%">
 <img src="https://cdn-icons-png.freepik.com/256/4248/4248443.png?semt=ais_hybrid" alt="placeholder" width="10%" height="10%">
 
 ### Ferramentas
