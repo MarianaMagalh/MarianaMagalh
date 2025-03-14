@@ -7,11 +7,11 @@
 * Apresentei meu TCC na feira de tecnologia Campus Party e  na feira cientifica do COTUCA.
 ---
 ### Infos GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaMagalh&show_icons=true&theme=radical)
-<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaMagalh&show_icons=true&theme=radical)<div>
 <a href="https://github.com/MarianaMagalh">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaMagalh&show=&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
 ---
 ### Habilidades 
